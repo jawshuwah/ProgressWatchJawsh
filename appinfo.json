@@ -1,0 +1,25 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "56500f68-342c-44e4-971e-95b1db6f6a2f",
+    "appKeys": {},
+    "longName": "ProgressWatchJawsh",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "ProgressWatchJawsh",
+    "companyName": "jawshuwah",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": [
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "IMAGE_MENU_ICON",
+                "file": "images/menu_icon.png"
+            }
+        ]
+    }
+}
