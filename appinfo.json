@@ -1,13 +1,13 @@
 {
-    "versionLabel": "1.0",
+    "versionLabel": "0.3",
     "uuid": "56500f68-342c-44e4-971e-95b1db6f6a2f",
     "appKeys": {},
-    "longName": "ProgressWatchJawsh",
+    "longName": "ProgressWatch_2.0",
     "versionCode": 1,
     "capabilities": [
         ""
     ],
-    "shortName": "ProgressWatchJawsh",
+    "shortName": "ProgressWatch",
     "companyName": "jawshuwah",
     "watchapp": {
         "watchface": true
